@@ -2,8 +2,9 @@ Package: shinyRDT
 Type: Package
 Title: shiny interface that creates reactive tables 
 Version: 0.1.0
-Author: acylam
-Maintainer: acylam
+Author: c(person("Andres Quintero", "Developer"),
+          person("Acylam", "Developer"))
+Maintainer: Andres Quintero <afquinteromoreano@gmail.com>
 Description: shiny functions that enables the user to create excel-like data tables from R
 License: MIT
 Encoding: UTF-8
